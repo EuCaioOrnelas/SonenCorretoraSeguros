@@ -1,0 +1,89 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans&display=swap");
+
+.navbar {
+  display: flex;
+  padding: 29px 90px;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+
+  background: #ffffff30;
+  backdrop-filter: blur(10px);
+}
+.navbar .navigation ul {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  gap: 40px;
+  align-items: center;
+}
+
+.navbar .navigation {
+  display: flex;
+}
+
+.navbar .navigation .links {
+  display: flex;
+  list-style: none;
+  text-decoration: none;
+  gap: 40px;
+  align-items: center;
+  margin-right: 40px;
+}
+
+/*LOGO NAVBAR*/
+.navbar .logo {
+  letter-spacing: 2px;
+  font-size: 20px;
+  font-family: "Lato", sans-serif;
+  background: linear-gradient(270deg, #3b81aa 0%, #0c3f5c 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/*NAVEGAÇÃO NAVBAR*/
+.navigation a {
+  color: #000;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.navigation .links a:hover {
+  background: linear-gradient(270deg, #3b81aa 0%, #0c3f5c 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.navigation .about:hover {
+  transform: scale(1.05);
+  transition: all 150ms;
+}
+
+.navigation .contato:hover {
+  transform: scale(1.05);
+  transition: all 150ms;
+}
+
+.navigation .sinistro:hover {
+  transform: scale(1.05);
+  transition: all 150ms;
+}
+
+/*CTA NAVIGATION*/
+.navigation .cta_navigation {
+  color: #fff;
+  background: linear-gradient(270deg, #3b81aa 0%, #0e5c88 100%);
+  border-radius: 15px;
+  padding: 6px 14px;
+  margin: 0 10px;
+}
+
+.navigation .cta_navigation a {
+  color: #fff;
+}
+
+.navigation .cta_navigation:hover {
+  transform: scale(1.05);
+  transition: all 150ms;
+}

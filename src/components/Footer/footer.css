@@ -1,0 +1,112 @@
+footer {
+  background-image: url(../../../public/backgroundfooter.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 65px 150px 0 150px;
+}
+
+.footer {
+  display: flex;
+  justify-content: space-between;
+  width: 90%;
+}
+
+.footer .sobre {
+  display: flex;
+  width: 500px;
+  gap: 30px;
+}
+
+.footer .sobre .descricao {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  color: #fff;
+  font-weight: 300;
+}
+
+.footer .sobre .descricao h3 {
+  letter-spacing: 2px;
+}
+
+.footer .acesso_rapido {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  gap: 20px;
+}
+
+.footer .acesso_rapido ul li {
+  list-style: none;
+  text-decoration: none;
+  padding: 3px 0;
+}
+
+.footer .acesso_rapido h3 {
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.footer .acesso_rapido ul li a {
+  text-decoration: none;
+  color: #fff;
+  letter-spacing: 1px;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.footer .contatos_rapidos {
+  display: flex;
+  flex-direction: column;
+  margin-top: 30px;
+  gap: 20px;
+
+  color: #fff;
+}
+
+.footer .contatos_rapidos ul li {
+  list-style: none;
+  text-decoration: none;
+  padding: 3px 0;
+}
+
+.footer .contatos_rapidos h3 {
+  color: #fff;
+  letter-spacing: 1px;
+}
+
+.footer .contatos_rapidos ul li a {
+  text-decoration: none;
+  color: #fff;
+  letter-spacing: 1px;
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.footer .contatos_rapidos a:hover {
+  transform: scale(1.03);
+  transition: all 150ms;
+}
+
+/* RODAPÉ + DIREITOS RESERVADOS */
+
+.rodape_footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 15px;
+  padding: 20px 0;
+}
+
+.rodape_footer span {
+  border: solid 1px #fff;
+  width: 500px;
+}
+
+.rodape_footer p {
+  font-size: 13px;
+  letter-spacing: 2px;
+  color: #fff;
+}
