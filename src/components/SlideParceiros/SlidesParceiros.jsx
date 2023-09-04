@@ -12,15 +12,15 @@ import "swiper/css/scrollbar";
 import "swiper/css/autoplay";
 
 const data = [
-  { id: "1", image: "../../../public/seguradoras/allianz.png" },
-  { id: "2", image: "../../../public/seguradoras/azul.png" },
-  { id: "3", image: "../../../public/seguradoras/hdi.png" },
-  { id: "4", image: "../../../public/seguradoras/itau.png" },
-  { id: "5", image: "../../../public/seguradoras/liberty.png" },
-  { id: "6", image: "../../../public/seguradoras/porto.png" },
-  { id: "7", image: "../../../public/seguradoras/sompo.png" },
-  { id: "8", image: "../../../public/seguradoras/tokio.png" },
-  { id: "9", image: "../../../public/seguradoras/zurich.png" },
+  { id: "1", image: "https://i.im.ge/2023/09/04/wyP2B1.allianz.png" },
+  { id: "2", image: "https://i.im.ge/2023/09/04/wyP1YP.azul.png" },
+  { id: "3", image: "https://i.im.ge/2023/09/04/wyPOUp.hdi.png" },
+  { id: "4", image: "https://i.im.ge/2023/09/04/wyPrWC.itau.png" },
+  { id: "5", image: "https://i.im.ge/2023/09/04/wyPFoq.liberty.png" },
+  { id: "6", image: "https://i.im.ge/2023/09/04/wyPdsf.porto.png" },
+  { id: "7", image: "https://i.im.ge/2023/09/04/wyPqym.sompo.png" },
+  { id: "8", image: "https://i.im.ge/2023/09/04/wyPsHr.tokio.png" },
+  { id: "9", image: "https://i.im.ge/2023/09/04/wyP7OW.zurich.png" },
 ];
 
 function SlideParceiros() {
