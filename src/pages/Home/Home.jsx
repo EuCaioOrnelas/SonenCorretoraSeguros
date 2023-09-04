@@ -44,7 +44,7 @@ function Home() {
       <div className="slogan">
         <div className="content_slogan">
           <p>Cuidando do Que É Mais Importante Para Você.</p>
-          <img src="../../../../public/escudo.svg" />
+          <img src="https://i.im.ge/2023/09/04/wAieQh.escudo-seguro-2-1.png" />
         </div>
       </div>
       {/* FINAL SECTION MAIN */}
@@ -84,14 +84,20 @@ function Home() {
         <div className="cards_about">
           <div className="card_section1">
             <div className="card">
-              <img src="../../../../public/segurodevidaicon.png" alt="" />
+              <img
+                src="https://i.im.ge/2023/09/04/wA5Kpz.seguro-de-vida-1.png"
+                alt=""
+              />
               <p>
                 <strong>Seguro de vida</strong> para seu futuro garantido!
               </p>
             </div>
 
             <div className="card">
-              <img src="../../../../public/seguroautoicon.svg" alt="" />
+              <img
+                src="https://i.im.ge/2023/09/04/wA9xJY.seguro-de-automovel.png"
+                alt=""
+              />
               <p>
                 Seguros <strong>AUTO</strong> de qualidade e com preços
                 justos...
@@ -99,7 +105,10 @@ function Home() {
             </div>
 
             <div className="card">
-              <img src="../../../../public/seguroresidencialicon.svg" alt="" />
+              <img
+                src="https://i.im.ge/2023/09/04/wAjFFF.fachada-de-casa-de-familia-1.png"
+                alt=""
+              />
               <div className="text_ajust">
                 <p>
                   <strong>Segurança</strong> para o seu <strong>Lar!</strong>{" "}
@@ -111,7 +120,10 @@ function Home() {
 
           <div className="card_section2">
             <div className="card">
-              <img src="../../../../public/estrelas.svg" alt="" />
+              <img
+                src="https://i.im.ge/2023/09/04/wAwDrC.5-estrelas.png"
+                alt=""
+              />
               <p>
                 <strong>21 anos</strong> atuando como corretora de seguros em
                 Maringá e região!{" "}
@@ -119,7 +131,7 @@ function Home() {
             </div>
 
             <div className="card">
-              <img src="../../../../public/suporte.svg" alt="" />
+              <img src="https://i.im.ge/2023/09/04/wAw8u6.24-7-1.png" alt="" />
               <p>
                 Suporte <strong>24h</strong> por dia, <strong>7 dias</strong>{" "}
                 por Semana!
@@ -127,7 +139,10 @@ function Home() {
             </div>
 
             <div className="card">
-              <img src="../../../../public/corretor1.svg" alt="" />
+              <img
+                src="https://i.im.ge/2023/09/04/wA6Xqm.agente-de-seguros.png"
+                alt=""
+              />
               <p>Corretor para te auxiliar no que você precisar!</p>
             </div>
           </div>
@@ -158,7 +173,11 @@ function Home() {
             </p>
           </div>
           <div className="about_section_two_img">
-            <img src="../../../../public/celularsonen.png" alt="" srcset="" />
+            <img
+              src="https://i.im.ge/2023/09/04/wANFAh.Group-3.png"
+              alt=""
+              srcset=""
+            />
           </div>
         </div>
       </div>
