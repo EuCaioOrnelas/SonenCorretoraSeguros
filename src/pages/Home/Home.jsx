@@ -44,7 +44,7 @@ function Home() {
       <div className="slogan">
         <div className="content_slogan">
           <p>Cuidando do Que É Mais Importante Para Você.</p>
-          <img src="../../public/escudo.svg" />
+          <img src="../../../../public/escudo.svg" />
         </div>
       </div>
       {/* FINAL SECTION MAIN */}
