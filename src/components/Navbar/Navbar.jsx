@@ -13,7 +13,7 @@ function Navbar() {
               <ul>
                 <div className="about">
                   <li>
-                    <a href="about">Sobre Nós</a>
+                    <a href="#about">Sobre Nós</a>
                   </li>
                 </div>
                 <div className="contato">
