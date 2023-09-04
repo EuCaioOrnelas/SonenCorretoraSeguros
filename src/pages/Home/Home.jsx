@@ -271,7 +271,7 @@ function Home() {
       <div className="slogan">
         <div className="content_slogan">
           <p>Cuidando do Que É Mais Importante Para Você.</p>
-          <img src="../../public/escudo.svg" />
+          <img src="https://i.im.ge/2023/09/04/wAieQh.escudo-seguro-2-1.png" />
         </div>
       </div>
       {/* INICIO SECTION LOCALIZAÇÃO */}
@@ -281,7 +281,7 @@ function Home() {
           <p>Venha fazer uma visita a nossa corretora!</p>
         </div>
         <div className="maps">
-          <img src="../../public/maps.png"></img>
+          <img src="https://i.im.ge/2023/09/04/wANSwD.Design-sem-nome-2023-08-28T210120-685.png"></img>
         </div>
         <div className="descricao_localizacao">
           <p>Avenida Curitiba, 300, Centro, Paiçandu - 87140-000</p>
