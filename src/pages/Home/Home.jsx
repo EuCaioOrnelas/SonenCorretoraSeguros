@@ -66,7 +66,6 @@ function Home() {
             <strong>13 maiores</strong> seguradoras do mercado!
           </p>
         </div>
-        <Rolagem />
       </div>
       {/* FINAL SECTION PARCERIAS */}
 
