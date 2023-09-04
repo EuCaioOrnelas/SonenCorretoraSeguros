@@ -8,7 +8,10 @@ function Footer() {
         <div className="footer">
           <div className="sobre">
             <div className="logo">
-              <img src="../../../public/logomid.svg" alt="logo" />
+              <img
+                src="https://i.im.ge/2023/09/04/wACDyX.zyro-image-2-removebg-preview-1.png"
+                alt="logo"
+              />
             </div>
             <div className="descricao">
               <h3>SOBRE:</h3>

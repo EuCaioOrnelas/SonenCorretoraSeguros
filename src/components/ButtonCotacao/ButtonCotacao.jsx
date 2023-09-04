@@ -6,7 +6,9 @@ function ButtonCotacao() {
       <div className="cta">
         <div className="button">
           <button>
-            <a>FAZER COTAÇÃO ONLINE</a>
+            <a href="https://forms.gle/Pd9k2XH4j86Q6qy26">
+              FAZER COTAÇÃO ONLINE
+            </a>
           </button>
         </div>
       </div>

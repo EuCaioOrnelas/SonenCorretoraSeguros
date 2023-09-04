@@ -13,23 +13,27 @@ function Navbar() {
               <ul>
                 <div className="about">
                   <li>
-                    <a href="#">Sobre Nós</a>
+                    <a href="about">Sobre Nós</a>
                   </li>
                 </div>
                 <div className="contato">
                   <li>
-                    <a href="#">Contato</a>
+                    <a href="https://api.whatsapp.com/send?phone=5544998183338&text=Ol%C3%A1!!!%20gostaria%20de%20tirar%20uma%20d%C3%BAvida...">
+                      Contato
+                    </a>
                   </li>
                 </div>
                 <div className="sinistro">
                   <li>
-                    <a href="#">Sinistro</a>
+                    <a href="https://api.whatsapp.com/send?phone=5544998183338&text=Ol%C3%A1!!!%20gostaria%20de%20tirar%20uma%20d%C3%BAvida...">
+                      Sinistro
+                    </a>
                   </li>
                 </div>
               </ul>
             </div>
             <div className="cta_navigation">
-              <a href="#">FAZER COTAÇÃO</a>
+              <a href="https://forms.gle/Pd9k2XH4j86Q6qy26">FAZER COTAÇÃO</a>
             </div>
           </div>
         </div>

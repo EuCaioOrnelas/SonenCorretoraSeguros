@@ -148,7 +148,7 @@ function Home() {
           </div>
         </div>
       </div>
-      <div className="about_section_two">
+      <div className="about_section_two" id="about">
         <div className="about_section">
           <div className="about_section_two_text">
             <h2>SOBRE NÓS...</h2>
