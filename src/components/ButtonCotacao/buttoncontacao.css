@@ -21,3 +21,9 @@ button {
   transform: scale(1.03);
   transition: all 150ms;
 }
+
+a {
+  list-style: none;
+  color: #fff;
+  text-decoration: none;
+}
