@@ -84,14 +84,14 @@ function Home() {
         <div className="cards_about">
           <div className="card_section1">
             <div className="card">
-              <img src="../../../public/segurodevidaicon.png" alt="" />
+              <img src="../../../../public/segurodevidaicon.png" alt="" />
               <p>
                 <strong>Seguro de vida</strong> para seu futuro garantido!
               </p>
             </div>
 
             <div className="card">
-              <img src="../../../public/seguroautoicon.svg" alt="" />
+              <img src="../../../../public/seguroautoicon.svg" alt="" />
               <p>
                 Seguros <strong>AUTO</strong> de qualidade e com preços
                 justos...
@@ -99,7 +99,7 @@ function Home() {
             </div>
 
             <div className="card">
-              <img src="../../../public/seguroresidencialicon.svg" alt="" />
+              <img src="../../../../public/seguroresidencialicon.svg" alt="" />
               <div className="text_ajust">
                 <p>
                   <strong>Segurança</strong> para o seu <strong>Lar!</strong>{" "}
@@ -111,7 +111,7 @@ function Home() {
 
           <div className="card_section2">
             <div className="card">
-              <img src="../../../public/estrelas.svg" alt="" />
+              <img src="../../../../public/estrelas.svg" alt="" />
               <p>
                 <strong>21 anos</strong> atuando como corretora de seguros em
                 Maringá e região!{" "}
@@ -119,7 +119,7 @@ function Home() {
             </div>
 
             <div className="card">
-              <img src="../../../public/suporte.svg" alt="" />
+              <img src="../../../../public/suporte.svg" alt="" />
               <p>
                 Suporte <strong>24h</strong> por dia, <strong>7 dias</strong>{" "}
                 por Semana!
@@ -127,7 +127,7 @@ function Home() {
             </div>
 
             <div className="card">
-              <img src="../../../public/corretor1.svg" alt="" />
+              <img src="../../../../public/corretor1.svg" alt="" />
               <p>Corretor para te auxiliar no que você precisar!</p>
             </div>
           </div>
