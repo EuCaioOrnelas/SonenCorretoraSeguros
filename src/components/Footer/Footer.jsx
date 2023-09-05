@@ -16,10 +16,9 @@ function Footer() {
             <div className="descricao">
               <h3>SOBRE:</h3>
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-                sodales sagittis tempor. Maecenas nisl nulla, ultricies in
-                hendrerit ut, efficitur id ipsum. Nam dapibus gravida arcu, et
-                ultricies ante scelerisque eu.
+                Mais que uma Corretora de Seguros, somos os companheiros ideais
+                que sua vida precisa, cuidamos do que realmente importa para
+                você.
               </p>
             </div>
           </div>
@@ -27,19 +26,23 @@ function Footer() {
             <h3>ACESSO RÁPIDO</h3>
             <ul>
               <li>
-                <a href="#">Contato</a>
+                <a href="https://api.whatsapp.com/send?phone=5544998183338&text=Ol%C3%A1!!!%20gostaria%20de%20tirar%20uma%20d%C3%BAvida...">
+                  Contato
+                </a>
               </li>
               <li>
-                <a href="#">Fazer Cotação Online</a>
+                <a href="https://forms.gle/Pd9k2XH4j86Q6qy26">
+                  Fazer Cotação Online
+                </a>
               </li>
               <li>
-                <a href="#">Sobre Nós</a>
+                <a href="#about">Sobre Nós</a>
               </li>
               <li>
-                <a href="#">Seguros</a>
+                <a href="#services">Seguros</a>
               </li>
               <li>
-                <a href="#">Localização</a>
+                <a href="#localizacao">Localização</a>
               </li>
             </ul>
           </div>

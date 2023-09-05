@@ -24,6 +24,7 @@ footer {
   margin-top: 50px;
   color: #fff;
   font-weight: 300;
+  font-size: 18px;
 }
 
 .footer .sobre .descricao h3 {
@@ -110,3 +111,5 @@ footer {
   letter-spacing: 2px;
   color: #fff;
 }
+
+/* RESPONSIVO */

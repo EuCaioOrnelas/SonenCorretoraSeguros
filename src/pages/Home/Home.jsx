@@ -20,10 +20,10 @@ function Home() {
       {/* INICIO SECTION MAIN */}
       <div className="main">
         <div className="title_main">
-          <h3>Olá, Somos...</h3>
+          <h3>Olá, somos...</h3>
           <h2>SONEN CORRETORA!</h2>
           <h4>
-            Sua corretora de seguros para o que
+            Sua Corretora de Seguros para o que
             <br />
             realmente importa para você.
           </h4>
@@ -186,7 +186,7 @@ function Home() {
       <SectionCta />
 
       {/* INICIO SECTION SERVIÇOS */}
-      <div className="services">
+      <div className="services" id="services">
         <div className="section_list_services">
           <div className="title_services">
             <p>
@@ -214,20 +214,19 @@ function Home() {
           <div className="title_services_two">
             <h2>DIFERENCIAIS:</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-              sodales sagittis tempor. Maecenas nisl nulla, ultricies in
-              hendrerit ut, efficitur id ipsum. Nam dapibus gravida arcu, et
-              ultricies ante scelerisque eu. Pellentesque feugiat lacus sit amet
-              lorem semper pellentesque nec ac ante. Quisque fringilla lectus
-              quis sem dictum tincidunt. Integer.
+              Na Sonen Corretora de Seguros, acreditamos que cada cliente é
+              único e merece o mais alto padrão de atendimento e proteção quando
+              se trata de seguros. Nosso compromisso é oferecer qualidade
+              excepcional em seguros e suporte ao cliente, e isso nos diferencia
+              de forma marcante.
               <br />
               <br />
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-              sodales sagittis tempor. Maecenas nisl nulla, ultricies in
-              hendrerit ut, efficitur id ipsum. Nam dapibus gravida arcu, et
-              ultricies ante scelerisque eu. Pellentesque feugiat lacus sit amet
-              lorem semper pellentesque nec ac ante. Quisque fringilla lectus
-              quis sem dictum tincidunt. Integer.
+              Nossa abordagem começa com a compreensão profunda das suas
+              necessidades individuais. Não somos apenas uma corretora de
+              seguros; somos seus consultores de confiança. Trabalhamos lado a
+              lado com você para entender suas preocupações, metas e estilo de
+              vida, e com base nisso, personalizamos soluções de seguros que se
+              encaixam perfeitamente.
             </p>
           </div>
           <div className="section_cta_services">
@@ -275,7 +274,7 @@ function Home() {
         </div>
       </div>
       {/* INICIO SECTION LOCALIZAÇÃO */}
-      <div className="localizacao">
+      <div className="localizacao" id="localizacao">
         <div className="text_localizacao">
           <h2>LOCALIZAÇÃO:</h2>
           <p>Venha fazer uma visita a nossa corretora!</p>
