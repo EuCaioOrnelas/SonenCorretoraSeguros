@@ -168,9 +168,7 @@ function Home() {
               negócios. Em caso de sinistro, nossa equipe eficiente e amigável
               simplificará o processo de reivindicação, fornecendo suporte e
               orientação para que você possa superar qualquer desafio com
-              tranquilidade. Confie na Sonen Corretora de Seguros para proteger
-              o que é mais importante para você. Entre em contato conosco hoje
-              mesmo e comece a garantir o seu futuro.
+              tranquilidade.
             </p>
           </div>
           <div className="about_section_two_img">
