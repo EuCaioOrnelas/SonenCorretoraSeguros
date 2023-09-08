@@ -18,7 +18,7 @@ function Home() {
     <>
       <Navbar />
       {/* INICIO SECTION MAIN */}
-      <div className="main">
+      <div className="main" id="main">
         <div className="title_main">
           <h3>Olá, somos...</h3>
           <h2>SONEN CORRETORA!</h2>
@@ -43,7 +43,7 @@ function Home() {
       </div>
       <div className="slogan">
         <div className="content_slogan">
-          <p>Cuidando do Que É Mais Importante Para Você.</p>
+          <p>Cuidando do que é mais importante para você.</p>
           <img src="https://i.im.ge/2023/09/04/wAieQh.escudo-seguro-2-1.png" />
         </div>
       </div>
@@ -62,7 +62,7 @@ function Home() {
         <div className="descricao_parceiros">
           <p>
             <strong>22 anos</strong> de parceria com as{" "}
-            <strong>13 maiores</strong> seguradoras do mercado!
+            <strong>11 maiores</strong> seguradoras do mercado!
           </p>
         </div>
       </div>
@@ -153,23 +153,24 @@ function Home() {
           <div className="about_section_two_text">
             <h2>SOBRE NÓS...</h2>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque
-              sodales sagittis tempor. Maecenas nisl nulla, ultricies in
-              hendrerit ut, efficitur id ipsum. Nam dapibus gravida arcu, et
-              ultricies ante scelerisque eu. Pellentesque feugiat lacus sit amet
-              lorem semper pellentesque nec ac ante. Quisque fringilla lectus
-              quis sem dictum tincidunt. Integer.Lorem ipsum dolor sit amet,
-              consectetur adipiscing elit. Quisque sodales sagittis tempor.
-              Maecenas nisl nulla, ultricies in hendrerit ut, efficitur id
-              ipsum. Nam dapibus gravida arcu, et ultricies ante scelerisque eu.
-              Pellentesque feugiat lacus sit amet lorem semper pellentesque nec
-              ac ante. Quisque fringilla lectus quis sem dictum tincidunt.
-              Integer.Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-              Quisque sodales sagittis tempor. Maecenas nisl nulla, ultricies in
-              hendrerit ut, efficitur id ipsum. Nam dapibus gravida arcu, et
-              ultricies ante scelerisque eu. Pellentesque feugiat lacus sit amet
-              lorem semper pellentesque nec ac ante. Quisque fringilla lectus
-              quis sem dictum tincidunt. Integer.
+              Na Sonen Corretora de Seguros, entendemos que a vida é cheia de
+              surpresas, e é por isso que estamos aqui para ajudar a garantir
+              que você esteja preparado para qualquer eventualidade. Nossa
+              missão é proporcionar tranquilidade e segurança aos nossos
+              clientes, oferecendo soluções de seguros confiáveis e acessíveis.
+              Com anos de experiência e um compromisso inabalável com nossos
+              clientes, a Sonen Corretora de Seguros é a sua parceira em
+              proteção. Oferecemos uma ampla gama de opções de seguros, desde
+              seguros de automóveis e residenciais até seguros de vida e saúde.
+              Nossa equipe de corretores experientes está à disposição para
+              ouvir suas necessidades individuais e ajudá-lo a encontrar as
+              melhores soluções de seguro para você, sua família e seus
+              negócios. Em caso de sinistro, nossa equipe eficiente e amigável
+              simplificará o processo de reivindicação, fornecendo suporte e
+              orientação para que você possa superar qualquer desafio com
+              tranquilidade. Confie na Sonen Corretora de Seguros para proteger
+              o que é mais importante para você. Entre em contato conosco hoje
+              mesmo e comece a garantir o seu futuro.
             </p>
           </div>
           <div className="about_section_two_img">
@@ -269,7 +270,7 @@ function Home() {
 */}
       <div className="slogan">
         <div className="content_slogan">
-          <p>Cuidando do Que É Mais Importante Para Você.</p>
+          <p>Cuidando do que é mais importante para você.</p>
           <img src="https://i.im.ge/2023/09/04/wAieQh.escudo-seguro-2-1.png" />
         </div>
       </div>
@@ -283,7 +284,7 @@ function Home() {
           <img src="https://i.im.ge/2023/09/04/wANSwD.Design-sem-nome-2023-08-28T210120-685.png"></img>
         </div>
         <div className="descricao_localizacao">
-          <p>Avenida Curitiba, 300, Centro, Paiçandu - 87140-000</p>
+          <p>Avenida Curitiba, 300, Centro, Paiçandu, 87140-000</p>
         </div>
       </div>
       {/* FINAL SECTION LOCALIZAÇÃO */}

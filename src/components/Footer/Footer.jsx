@@ -50,19 +50,27 @@ function Footer() {
             <h3>CONTATOS RÁPIDO</h3>
             <ul>
               <li>
-                <a href="#">Enviar E-mail</a>
+                <a href="mailto:Sonencorretora@hotmail.com">Enviar E-mail</a>
               </li>
               <li>
-                <a href="#">WhatsApp Corretor</a>
+                <a href="https://api.whatsapp.com/send?phone=5544999738747">
+                  WhatsApp Corretor
+                </a>
               </li>
               <li>
-                <a href="#">Ligação Corretor</a>
+                <a href="https://api.whatsapp.com/send?phone=5544999738747">
+                  Ligação Corretor
+                </a>
               </li>
               <li>
-                <a href="#">Sinistro</a>
+                <a href="https://api.whatsapp.com/send?phone=5544999738747&text=Ol%C3%A1,%20estou%20precisando%20de%20ajuda!">
+                  Sinistro
+                </a>
               </li>
               <li>
-                <a href="#">Solicitar Guincho</a>
+                <a href="https://api.whatsapp.com/send?phone=5544999738747&text=Ol%C3%A1,%20preciso%20acionar%20um%20guincho!">
+                  Solicitar Guincho
+                </a>
               </li>
             </ul>
           </div>

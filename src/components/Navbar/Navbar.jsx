@@ -6,7 +6,9 @@ function Navbar() {
       <nav>
         <div className="navbar">
           <div className="logo">
-            <h2>SONEN CORRETORA</h2>
+            <h2>
+              <a href="#main">SONEN CORRETORA</a>
+            </h2>
           </div>
           <div className="navigation">
             <div className="links">
@@ -23,11 +25,9 @@ function Navbar() {
                     </a>
                   </li>
                 </div>
-                <div className="sinistro">
+                <div className="seguros">
                   <li>
-                    <a href="https://api.whatsapp.com/send?phone=5544998183338&text=Ol%C3%A1!!!%20gostaria%20de%20tirar%20uma%20d%C3%BAvida...">
-                      Sinistro
-                    </a>
+                    <a href="#services">Seguros</a>
                   </li>
                 </div>
               </ul>
