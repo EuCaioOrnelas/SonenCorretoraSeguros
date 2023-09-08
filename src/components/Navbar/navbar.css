@@ -10,10 +10,14 @@
   justify-content: space-around;
   align-items: center;
   text-align: center;
+  background: transparent;
+}
+.navbar.sticky {
   background: #ffffffa9;
   backdrop-filter: blur(20px);
   z-index: 100;
 }
+
 .navbar .navigation ul {
   display: flex;
   list-style: none;
