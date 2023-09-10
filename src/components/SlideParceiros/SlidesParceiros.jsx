@@ -28,24 +28,38 @@ const data = [
 function SlideParceiros() {
   const [slidesPerView, setSlidePerView] = useState(4);
 
+  useEffect(() => {
+    function handleResize() {
+      if (window.innerWidth < 1360) {
+        setSlidePerView(2);
+      } else {
+        setSlidePerView(4);
+      }
+    }
+
+    handleResize();
+  }, []);
+
   return (
     <>
-      <div className="section_slide">
-        <Swiper
-          slidesPerView={slidesPerView}
-          pagination={{ clickable: true }}
-          autoplay
-        >
-          {data.map((item) => (
-            <SwiperSlide key={item.id}>
-              <img
-                src={item.image}
-                alt="Slider Seguradoras"
-                className="slideseguros"
-              />
-            </SwiperSlide>
-          ))}
-        </Swiper>
+      <div className="slide">
+        <div className="section_slide">
+          <Swiper
+            slidesPerView={slidesPerView}
+            pagination={{ clickable: true }}
+            autoplay
+          >
+            {data.map((item) => (
+              <SwiperSlide key={item.id}>
+                <img
+                  src={item.image}
+                  alt="Slider Seguradoras"
+                  className="slideseguros"
+                />
+              </SwiperSlide>
+            ))}
+          </Swiper>
+        </div>
       </div>
     </>
   );

@@ -8,7 +8,7 @@
   width: 1240px;
 }
 
-.services .section_list_services .title_services {
+.services .section_list_services .title_services p {
   text-align: center;
   font-size: 40px;
   padding: 50px 0 50px 0;
@@ -68,4 +68,10 @@
   align-items: center;
   margin-top: -25px;
   margin-bottom: 80px;
+}
+
+@media (max-width: 1360px) {
+  .services .section_list_services .title_services p {
+    font-size: 40px;
+  }
 }

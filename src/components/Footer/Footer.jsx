@@ -27,7 +27,7 @@ function Footer() {
               <h3>ACESSO RÁPIDO</h3>
               <ul>
                 <li>
-                  <a href="https://api.whatsapp.com/send?phone=5544998183338&text=Ol%C3%A1!!!%20gostaria%20de%20tirar%20uma%20d%C3%BAvida...">
+                  <a href="https://api.whatsapp.com/send?phone=5544998183338">
                     Contato
                   </a>
                 </li>

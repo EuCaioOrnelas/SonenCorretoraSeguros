@@ -1,12 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Open+Sans&display=swap");
 
+.menu_mobile {
+  display: none;
+}
+
 .navbar {
   display: flex;
   top: 0;
   left: 0;
   position: fixed;
   width: 100%;
-  padding: 29px;
+  padding: 29px 29px;
   justify-content: space-around;
   align-items: center;
   text-align: center;
@@ -16,6 +20,8 @@
   background: #ffffffa9;
   backdrop-filter: blur(20px);
   z-index: 100;
+  padding: 15px 29px;
+  transition: all 100ms;
 }
 
 .navbar .navigation ul {
@@ -95,4 +101,38 @@
 .navigation .cta_navigation:hover {
   transform: scale(1.02);
   transition: all 150ms;
+}
+
+/* RESPONSIVE */
+
+@media (max-width: 1370px) {
+  .navbar {
+    gap: 250px;
+    justify-content: space-around;
+  }
+
+  .navbar .logo {
+    font-size: 20px;
+  }
+
+  .navbar .navigation {
+    display: none;
+  }
+
+  .navbar .menu_mobile {
+    display: block;
+  }
+
+  .navbar .menu_mobile_btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 7px;
+    border: solid 1px #494949;
+    border-radius: 999px;
+  }
+
+  .navbar .menu_mobile_btn_close {
+    display: none;
+  }
 }

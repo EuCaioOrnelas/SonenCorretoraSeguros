@@ -6,6 +6,8 @@
   background-repeat: no-repeat;
   background-size: 65%;
   height: 700px;
+  align-items: center;
+  justify-content: center;
 }
 
 .parceiros_section .text_parceiros p {
@@ -23,7 +25,17 @@
 }
 
 .descricao_parceiros {
-  font-size: 25px;
+  font-size: 26px;
   text-align: center;
   letter-spacing: 2px;
+}
+
+@media (max-width: 1360px) {
+  .descricao_parceiros p {
+    font-size: 20px;
+  }
+  .parceiros_section {
+    background-size: 65%;
+    height: 600px;
+  }
 }
