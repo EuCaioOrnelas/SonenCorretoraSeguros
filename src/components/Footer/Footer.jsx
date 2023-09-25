@@ -40,7 +40,7 @@ function Footer() {
                   <a href="#about">Sobre Nós</a>
                 </li>
                 <li>
-                  <a href="#services">Seguros</a>
+                  <a href="#services">Produtos</a>
                 </li>
                 <li>
                   <a href="#localizacao">Localização</a>

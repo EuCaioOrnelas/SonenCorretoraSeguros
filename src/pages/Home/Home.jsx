@@ -23,22 +23,10 @@ function Home() {
           <h3>Olá, somos...</h3>
           <h2>SONEN CORRETORA!</h2>
           <h4>
-            Sua Corretora de Seguros para o que
+            Sua corretora de seguros para o que
             <br />
             realmente importa para você.
           </h4>
-          <div className="cta_main">
-            <ButtonCotacao />
-            <p>
-              Ou fale Conosco -
-              <a
-                className="link_zap"
-                href="https://api.whatsapp.com/send?phone=5544998183338&text=Ol%C3%A1!!!%20gostaria%20de%20tirar%20uma%20d%C3%BAvida..."
-              >
-                - (44) 9 9818-3338
-              </a>
-            </p>
-          </div>
         </div>
       </div>
       <div className="slogan">
