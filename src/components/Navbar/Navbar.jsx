@@ -9,7 +9,7 @@ function Navbar() {
   window.addEventListener("scroll", function () {
     let header = document.querySelector(".navbar");
     if (header) {
-      header.classList.toggle("sticky", window.scrollY > 100);
+      header.classList.toggle("sticky", window.scrollY > 50);
     }
   });
 

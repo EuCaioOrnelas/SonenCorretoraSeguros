@@ -2,6 +2,7 @@
 import Footer from "../../components/Footer/Footer";
 import Navbar from "../../components/Navbar/Navbar";
 import SectionCta from "../../components/SectionCta/SectionCta";
+import Main from "../../components/Main/Main";
 
 // CSS STYLES //
 import "./style/main.css";
@@ -17,22 +18,11 @@ function Home() {
   return (
     <>
       <Navbar />
+
       {/* INICIO SECTION MAIN */}
       <div className="main" id="main">
-        <div className="title_main">
-          <h3>Olá, somos...</h3>
-          <h2>SONEN CORRETORA!</h2>
-          <h4>
-            Sua corretora de seguros para o que
-            <br />
-            realmente importa para você.
-          </h4>
-        </div>
-      </div>
-      <div className="slogan">
-        <div className="content_slogan">
-          <p>Cuidando do que é mais importante para você.</p>
-          <img src="https://i.im.ge/2023/09/04/wAieQh.escudo-seguro-2-1.png" />
+        <div className="mainSlides">
+          <Main />
         </div>
       </div>
       {/* FINAL SECTION MAIN */}
@@ -49,7 +39,7 @@ function Home() {
         </div>
         <div className="descricao_parceiros">
           <p>
-            <strong>22 anos</strong> de parceria com as{" "}
+            <strong>23 anos</strong> de parceria com as{" "}
             <strong>11 maiores</strong> seguradoras do mercado!
           </p>
         </div>
@@ -184,18 +174,18 @@ function Home() {
           </div>
           <div className="list_services">
             <ul>
-              <li>Seguros Para Automóveis</li>
-              <li>Seguros de Vida</li>
-              <li>Seguros Para Residência</li>
-              <li>Seguros Empresariais</li>
-              <li>Seguros para Frotas</li>
+              <li>Automóveis</li>
+              <li>Vida</li>
+              <li>Residência</li>
+              <li>Empresariais</li>
+              <li>Frotas</li>
             </ul>
             <ul>
-              <li>Seguros de Vida em Grupo</li>
-              <li>Seguros para Caminhões</li>
-              <li>Seguros Para Motos</li>
-              <li>Seguros para Viagens</li>
-              <li>Seguros para Bicicletas</li>
+              <li>Vida em Grupo</li>
+              <li>Caminhões</li>
+              <li>Motos</li>
+              <li>Viagens</li>
+              <li>Bicicletas</li>
             </ul>
           </div>
           <div className="title_services_two">

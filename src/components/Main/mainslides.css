@@ -1,0 +1,10 @@
+.sectionSlideMain {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.slidesMain {
+  border: solid 3px #f0f0f0;
+  border-radius: 15px;
+}

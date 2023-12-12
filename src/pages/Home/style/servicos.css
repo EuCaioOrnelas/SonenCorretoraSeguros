@@ -26,7 +26,7 @@
 
 .list_services {
   display: flex;
-  gap: 160px;
+  gap: 300px;
   justify-content: center;
   align-items: center;
   font-size: 22px;
