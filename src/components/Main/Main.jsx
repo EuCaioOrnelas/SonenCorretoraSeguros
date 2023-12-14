@@ -11,13 +11,22 @@ import "swiper/css/pagination";
 import "swiper/css/autoplay";
 
 const data = [
-  { id: "1", image: "https://i.im.ge/2023/12/12/EN0tt6.imgPrincipal.png" },
-  { id: "2", image: "https://i.im.ge/2023/12/12/EN0Ukc.ProtejaSeuCarro.png" },
+  {
+    id: "1",
+    image: "https://i.im.ge/2023/12/14/EgiyFP.Design-sem-nome-17.png",
+  },
+  {
+    id: "2",
+    image: "https://i.im.ge/2023/12/14/EgiCRf.protejaSeuCarro-1.png",
+  },
   {
     id: "3",
-    image: "https://i.im.ge/2023/12/12/EN05Rx.VidaFamiliaSeguroDeVida.png",
+    image: "https://i.im.ge/2023/12/14/Egi3Ur.boraViajar-1.png",
   },
-  { id: "4", image: "https://i.im.ge/2023/12/12/EN07nW.BoraViajar.png" },
+  {
+    id: "4",
+    image: "https://i.im.ge/2023/12/14/EgiDPK.Design-sem-nome-16.png",
+  },
 ];
 
 function Main() {

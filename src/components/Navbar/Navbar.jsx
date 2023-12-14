@@ -19,7 +19,7 @@ function Navbar() {
         <div className="navbar">
           <div className="logo">
             <h2>
-              <a href="#main">SONEN CORRETORA DE SEGUROS</a>
+              <img src="https://i.im.ge/2023/12/14/Eg0sof.Design-sem-nome-19-removebg-preview.png" />
             </h2>
           </div>
           <div className="navigation">

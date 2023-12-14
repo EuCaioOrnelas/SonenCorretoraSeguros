@@ -10,7 +10,7 @@
   left: 0;
   position: fixed;
   width: 100%;
-  padding: 29px 29px;
+  padding: 0px 29px;
   justify-content: space-around;
   align-items: center;
   text-align: center;
@@ -42,18 +42,20 @@
   text-decoration: none;
   gap: 40px;
   align-items: center;
+  justify-content: center;
   margin-right: 40px;
 }
 
 /*LOGO NAVBAR*/
 .navbar .logo {
-  letter-spacing: 2px;
-  font-size: 22px;
-  font-family: "Lato", sans-serif;
-  background: linear-gradient(270deg, #3b81aa 0%, #0c3f5c 100%);
-  background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.navbar .logo img {
+  width: 185px;
 }
 
 /*NAVEGAÇÃO NAVBAR*/
@@ -62,9 +64,8 @@
   font-size: 22px;
   text-decoration: none;
 }
-
 .navigation .links a:hover {
-  background: linear-gradient(270deg, #3b81aa 0%, #0c3f5c 100%);
+  background: linear-gradient(270deg, #1985e9 0%, #0f68bb 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
@@ -87,7 +88,7 @@
 /*CTA NAVIGATION*/
 .navigation .cta_navigation {
   color: #fff;
-  background: linear-gradient(270deg, #3b81aa 0%, #0e5c88 100%);
+  background: linear-gradient(270deg, #1985e9 0%, #0f68bb 100%);
   border-radius: 8px;
   padding: 6px 14px;
   margin: 0 10px;

@@ -257,7 +257,7 @@ function Home() {
           <p>Venha fazer uma visita a nossa corretora!</p>
         </div>
         <div className="maps">
-          <img src="https://i.im.ge/2023/09/04/wANSwD.Design-sem-nome-2023-08-28T210120-685.png"></img>
+          <iframe src="https://www.google.com/maps/embed?pb=!1m16!1m12!1m3!1d665.8022189547298!2d-52.04820970573514!3d-23.461511528794247!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!2m1!1ssonen%20corretora%20de%20seguros!5e0!3m2!1spt-BR!2sbr!4v1702377706037!5m2!1spt-BR!2sbr"></iframe>
         </div>
         <div className="descricao_localizacao">
           <p>Avenida Curitiba, 300, Centro, Paiçandu, 87140-000</p>

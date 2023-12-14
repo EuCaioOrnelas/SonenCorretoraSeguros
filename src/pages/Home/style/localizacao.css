@@ -29,10 +29,11 @@
   margin: 40px 0 10px 0;
 }
 
-.localizacao .maps img {
+.localizacao .maps iframe {
   border-radius: 8px;
   border: solid #000 2px;
-  width: 900px;
+  width: 60%;
+  height: 500px;
 }
 
 .localizacao .descricao_localizacao {
