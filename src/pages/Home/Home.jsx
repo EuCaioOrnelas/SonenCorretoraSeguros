@@ -63,7 +63,7 @@ function Home() {
           <div className="card_section1">
             <div className="card">
               <img
-                src="https://i.im.ge/2023/09/04/wA5Kpz.seguro-de-vida-1.png"
+                src="https://i.im.ge/2023/12/15/EZFyQc.life-insurance-1.png"
                 alt=""
               />
               <p>
@@ -73,7 +73,7 @@ function Home() {
 
             <div className="card">
               <img
-                src="https://i.im.ge/2023/09/04/wA9xJY.seguro-de-automovel.png"
+                src="https://i.im.ge/2023/12/15/EZFJFY.car-insurance-1-1.png"
                 alt=""
               />
               <p>
@@ -83,10 +83,7 @@ function Home() {
             </div>
 
             <div className="card">
-              <img
-                src="https://i.im.ge/2023/09/04/wAjFFF.fachada-de-casa-de-familia-1.png"
-                alt=""
-              />
+              <img src="https://i.im.ge/2023/12/15/EZF4R4.house-1.png" alt="" />
               <div className="text_ajust">
                 <p>
                   <strong>Segurança</strong> para o seu <strong>Lar!</strong>{" "}
@@ -98,10 +95,7 @@ function Home() {
 
           <div className="card_section2">
             <div className="card">
-              <img
-                src="https://i.im.ge/2023/09/04/wAwDrC.5-estrelas.png"
-                alt=""
-              />
+              <img src="https://i.im.ge/2023/12/15/EZOdYL.star-1.png" alt="" />
               <p>
                 <strong>21 anos</strong> atuando como corretora de seguros em
                 Maringá e região!{" "}
@@ -109,7 +103,10 @@ function Home() {
             </div>
 
             <div className="card">
-              <img src="https://i.im.ge/2023/09/04/wAw8u6.24-7-1.png" alt="" />
+              <img
+                src="https://i.im.ge/2023/12/15/EZOlzm.24-7-2-1.png"
+                alt=""
+              />
               <p>
                 Suporte <strong>24h</strong> por dia, <strong>7 dias</strong>{" "}
                 por Semana!
@@ -131,7 +128,7 @@ function Home() {
           <div className="about_section_two_text">
             <h2>SOBRE NÓS...</h2>
             <p>
-              Na Sonen Corretora de Seguros, entendemos que a vida é cheia de
+              Na sonen corretora de seguros, entendemos que a vida é cheia de
               surpresas, e é por isso que estamos aqui para ajudar a garantir
               que você esteja preparado para qualquer eventualidade. Nossa
               missão é proporcionar tranquilidade e segurança aos nossos
@@ -181,7 +178,7 @@ function Home() {
               <li>Frotas</li>
             </ul>
             <ul>
-              <li>Vida em Grupo</li>
+              <li>Vida em grupo</li>
               <li>Caminhões</li>
               <li>Motos</li>
               <li>Viagens</li>
@@ -191,7 +188,7 @@ function Home() {
           <div className="title_services_two">
             <h2>DIFERENCIAIS:</h2>
             <p>
-              Na Sonen Corretora de Seguros, acreditamos que cada cliente é
+              Na sonen corretora de seguros, acreditamos que cada cliente é
               único e merece o mais alto padrão de atendimento e proteção quando
               se trata de seguros. Nosso compromisso é oferecer qualidade
               excepcional em seguros e suporte ao cliente, e isso nos diferencia

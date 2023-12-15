@@ -20,7 +20,7 @@
   background: #ffffffa9;
   backdrop-filter: blur(20px);
   z-index: 100;
-  padding: 15px 29px;
+  padding: 0px 29px;
   transition: all 100ms;
 }
 
